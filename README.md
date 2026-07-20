@@ -63,23 +63,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 A Little About My Coding
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maryam-sarfraz1&show_icons=true&hide_border=true&bg_color=00000000&title_color=b07fd4&icon_color=e79cc2&text_color=9a8fb0&count_private=true" alt="Maryam's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-sarfraz1&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=b07fd4&text_color=9a8fb0" alt="Top languages"/>
+![Followers](https://img.shields.io/github/followers/maryam-sarfraz1?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=b07fd4&labelColor=2b2440)
+![Repos](https://img.shields.io/badge/Repositories-11-e79cc2?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2440)
+![Focus](https://img.shields.io/badge/Currently-Learning_%26_Building-a99bec?style=for-the-badge&labelColor=2b2440)
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-sarfraz1&hide_border=true&background=00000000&stroke=b07fd4&ring=b07fd4&fire=e79cc2&currStreakLabel=b07fd4&sideLabels=9a8fb0&dates=8a7d97" alt="GitHub streak"/>
+**🧡 Languages & Tools I Love**
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maryam-sarfraz1&theme=flat&no-frame=true&column=7&margin-w=8&title_color=b07fd4" alt="Trophies"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,rust,html,css,git,github,vscode&perline=6" alt="skills"/>
 
 </div>
-
 ### ✨ Thanks for visiting — let's connect and build something great! ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e79cc2,100:a99bec&height=120&section=footer"/>
