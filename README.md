@@ -1,4 +1,3 @@
-<!-- ===== PASTEL BANNER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a99bec,100:e79cc2&height=200&section=header&text=Maryam%20Sarfraz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=18" alt="banner"/>
 
 <div align="center">
@@ -7,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-a99bec?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sarfraz-b31b0436b)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-e79cc2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarfrazmaryam123@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=maryam-sarfraz1&label=Profile%20views&color=b07fd4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/maryam-sarfraz1?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=b07fd4&labelColor=2b2440)
 
 </div>
 
@@ -27,14 +26,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,rust,html,css,git,github,vscode&perline=6" alt="skills"/>
 
 </div>
 
@@ -67,17 +59,16 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/maryam-sarfraz1?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=b07fd4&labelColor=2b2440)
 ![Repos](https://img.shields.io/badge/Repositories-11-e79cc2?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2440)
 ![Focus](https://img.shields.io/badge/Currently-Learning_%26_Building-a99bec?style=for-the-badge&labelColor=2b2440)
-
-<br/><br/>
-
-**🧡 Languages & Tools I Love**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,rust,html,css,git,github,vscode&perline=6" alt="skills"/>
+![Open to work](https://img.shields.io/badge/Open_to-Internships-b07fd4?style=for-the-badge&labelColor=2b2440)
 
 </div>
+
+---
+
+<div align="center">
+
 ### ✨ Thanks for visiting — let's connect and build something great! ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e79cc2,100:a99bec&height=120&section=footer"/>
