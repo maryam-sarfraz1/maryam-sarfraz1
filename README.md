@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a99bec,100:e79cc2&height=200&section=header&text=Maryam%20Sarfraz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a99bec,100:e79cc2&height=200&section=header&text=Maryam%20Sarfraz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=18" alt="banner"/>
 
 <div align="center">
 
@@ -13,10 +13,9 @@
 ---
 
 ## 🌷 About Me
-
-- 🎓 Computer Science student who loves turning ideas into real, working software.
+- 🤖 **AI Engineer & Full Stack Developer** who loves turning ideas into real, working software.
 - 💻 I build with **Python, C, C++, JavaScript & TypeScript** — and exploring **Rust**.
-- 🌱 Currently sharpening my skills in problem-solving, DSA & full projects.
+- 🌱 Passionate about AI-driven applications, problem-solving, DSA & end-to-end product builds.
 - 🎯 Open to **internships** and **junior developer roles** — always eager to learn!
 - 💌 Reach me at **sarfrazmaryam123@gmail.com**
 
@@ -25,9 +24,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,rust,html,css,git,github,vscode&perline=6" alt="skills"/>
-
 </div>
 
 ---
